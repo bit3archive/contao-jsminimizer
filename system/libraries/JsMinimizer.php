@@ -39,6 +39,12 @@
 class JsMinimizer
 {
 	/**
+	 * Contains all JS code
+	 * @var string
+	 */
+	protected $strJs;
+	
+	/**
 	 * load the cssmin class
 	 */
 	public function  __construct()
