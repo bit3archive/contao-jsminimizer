@@ -21,7 +21,7 @@
  * Software Foundation website at <http://www.gnu.org/licenses/>.
  *
  * PHP version 5
- * @copyright  InfinitySoft 2010
+ * @copyright  InfinitySoft 2011
  * @author     Tristan Lins <tristan.lins@infinitysoft.de>
  * @package    Compression API
  * @license    http://opensource.org/licenses/lgpl-3.0.html
@@ -29,8 +29,8 @@
 
 
 /**
- * Settings
+ * Back end modules
  */
-$GLOBALS['TL_JS_MINIMIZER']['jsmin'] = 'JsMinimizer';
+$GLOBALS['TL_LANG']['COMPRESSION']['jsmin'] = 'jsMinimizer';
 
 ?>
