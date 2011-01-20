@@ -36,7 +36,7 @@
  * @author     Tristan Lins <tristan.lins@infinitysoft.de>
  * @package    Compression API
  */
-class JsMinimizer extends AbstractMinimizer implements JsMinimizer
+class JsMinimizer extends AbstractMinimizer
 {
 	/**
 	 * load the jsmin class
