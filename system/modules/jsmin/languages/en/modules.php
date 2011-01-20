@@ -31,6 +31,6 @@
 /**
  * Back end modules
  */
-$GLOBALS['TL_LANG']['MOD']['minimizer-jsmin'] = array('Compression API - jsMinimizer', 'jsmin JavaScript minimizer.');
+$GLOBALS['TL_LANG']['MOD']['jsmin'] = array('jsMinimizer', 'jsMinimizer JavaScript minimizer.');
 
 ?>
